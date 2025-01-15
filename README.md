@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at ([https://heteromorphic-plane.000webhostapp.com/](https://portafolio-lilac-pi.vercel.app/))
+- 👨‍💻 All of my projects are available at ([https://portafolio-lilac-pi.vercel.app/](https://portafolio-lilac-pi.vercel.app/))
 
 - 💬 Ask me about **React , Express , Laravel**
 
